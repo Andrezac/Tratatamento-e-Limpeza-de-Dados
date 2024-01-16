@@ -1,2 +1,2 @@
-# Tratatamento-e-Limpeza-de-Dados
- Projetos de treinamento das habilidades adquiridas através da Faculdade, Cursos, Workshops e Bootcamps 
+# Portfólio Ciencia de Dados - Andreza Cristina J. da Silva
+Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados por meio de Cursos, Workshops, Bootcamps e Faculdade.
