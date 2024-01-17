@@ -1,2 +1,2 @@
-# Portfólio Ciencia de Dados - Andreza Cristina J. da Silva
-Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados por meio de Cursos, Workshops, Bootcamps e Faculdade.
+# Preparação dos Dados
+Ter acesso a uma base de dados consistente para análise de dados e geração de insights é indispensável, para isso, por meio das lingaguens Python e R trago projetos que mantém o dataset com informações limpas, sem duplicidade ou valores nulos para que o processo de investivação traga resultados confiáveis.
